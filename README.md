@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaira-Joel
-- I'm a junior software test engineer
+- I'm a software test engineer
 - 👀 I’m interested in learning more about front-end development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me chaira.joel@hotmail.com
