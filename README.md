@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaira-Joel
 - I'm a software test engineer
 - 👀 I’m interested in learning more about front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front-end development
 - 📫 How to reach me chaira.joel@hotmail.com
 
 <!---
