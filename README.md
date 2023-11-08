@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chaira-Joel
-- I'm a software test engineer
-- 👀 I’m interested in learning more about test automation
+- I'm a software tester
 - 🌱 I’m currently learning Front-end development and test automation
 - 📫 How to reach me chaira.joel@hotmail.com
 
